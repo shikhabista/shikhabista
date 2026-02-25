@@ -1,6 +1,6 @@
 ## Hey! Nice to see you 👋
 Welcome to my page!
-I'm a student, part-time coder, and full-time adventure seeker. Currently working between bugs and "it works in my machine". Problem-solver by profession, and overthinker by personality
+I'm a student, part-time coder, and full-time adventure seeker. Currently working between bugs and "it works in my machine". Problem-solver by profession, and overthinker by personality.
 
 I Code with
 
