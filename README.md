@@ -1,6 +1,6 @@
 ## Hey! Nice to see you 👋
 Welcome to my page!
-I'm a student, part-time coder, and full-time adventure seeker. I am currently working at @PrathamITSystem. Thanks for visiting. I'd love to [connect](https://www.linkedin.com/in/shikhabista33/)
+I'm a student, part-time coder, and full-time adventure seeker. Currently working between bugs and "it works in my machine". Problem-solver by profession, and overthinker by personality
 
 I Code with
 
@@ -17,31 +17,3 @@ Where to find me:
 ![Static Badge](https://img.shields.io/badge/shikhabista33-white?logoColor=white&color=%230854C1&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshikhabista33%2F)
 ![Static Badge](https://img.shields.io/badge/shikhabista33-white?logo=medium&logoColor=white&color=%23000000&link=https%3A%2F%2Fmedium.com%2F%40shikhabista33) ![Static Badge](https://img.shields.io/badge/code.shikha-white?logo=gitlab&logoColor=white&color=%23FC6D26&link=https%3A%2F%2Fgitlab.com%2Fcode.shikha)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**shikhabista/shikhabista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
