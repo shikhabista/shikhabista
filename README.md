@@ -13,7 +13,7 @@ I Code with
 
 Where to find me:
 
-![Static Badge](https://img.shields.io/badge/shikhabista-white?logo=github&logoColor=white&color=%23181717&link=https%3A%2F%2Fgithub.com%2Fshikhabista)
+![Static Badge](https://img.shields.io/badge/shikhabista-white?logo=github&logoColor=white&color=%23181717&link=https://github.com/shikhabista)
 ![Static Badge](https://img.shields.io/badge/shikhabista33-white?logoColor=white&color=%230854C1&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshikhabista33%2F)
 ![Static Badge](https://img.shields.io/badge/shikhabista33-white?logo=medium&logoColor=white&color=%23000000&link=https%3A%2F%2Fmedium.com%2F%40shikhabista33) ![Static Badge](https://img.shields.io/badge/code.shikha-white?logo=gitlab&logoColor=white&color=%23FC6D26&link=https%3A%2F%2Fgitlab.com%2Fcode.shikha)
 
